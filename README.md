@@ -5,7 +5,4 @@
 
 
 
-
-
-
-This project is part of my studies in Flutter.
+This project is part of my initial studies in Flutter.
