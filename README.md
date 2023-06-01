@@ -5,9 +5,8 @@
 
 
 
-This project is part of my initial studies in Flutter.
-
 
 
 Description:
-- Basic project to create activities 
+- This project is part of my initial studies in Flutter;
+- Creating and deleting activities.
